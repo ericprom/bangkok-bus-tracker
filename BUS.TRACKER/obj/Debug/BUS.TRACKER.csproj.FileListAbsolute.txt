@@ -1,0 +1,111 @@
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\bin\Debug\App.xbf
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\bin\Debug\MainPage.xbf
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\bin\Debug\Pages\Map.xbf
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\bin\Debug\Pages\Route.xbf
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\bin\Debug\BUS.TRACKER.xr.xml
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\bin\Debug\BUS.TRACKER.exe
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\bin\Debug\BUS.TRACKER.pdb
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\bin\Debug\resources.pri
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\bin\Debug\AppxManifest.xml
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\bin\Debug\BUS.TRACKER.build.appxrecipe
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\bin\Debug\Newtonsoft.Json.dll
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\bin\Debug\Newtonsoft.Json.xml
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\BUS.TRACKER.csprojResolveAssemblyReference.cache
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\App.g.i.cs
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\App.g.cs
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\MainPage.g.i.cs
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\MainPage.g.cs
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Map.g.i.cs
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Map.g.cs
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Route.g.i.cs
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Route.g.cs
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\XamlTypeInfo.g.cs
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\App.xaml
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\App.xbf
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\XamlSaveStateFile.xml
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\MainPage.xaml
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Map.xaml
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Route.xaml
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\MainPage.xbf
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Map.xbf
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Route.xbf
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\BUS.TRACKER.exe
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\BUS.TRACKER.pdb
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\BUS.TRACKER.csproj.GenerateResource.Cache
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\priconfig.xml
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\priconfig.xml.intermediate
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\layout.resfiles
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\layout.resfiles.intermediate
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\resources.resfiles
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\resources.resfiles.intermediate
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\pri.resfiles
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\pri.resfiles.intermediate
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\qualifiers.txt
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\qualifiers.txt.intermediate
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\ericprom\documents\visual studio 2013\Projects\BUS.TRACKER\BUS.TRACKER\obj\Debug\ProjectArchitectures.txt
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Debug\App.xbf
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Debug\MainPage.xbf
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Debug\Pages\Map.xbf
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Debug\Pages\Link.xbf
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Debug\Pages\Route.xbf
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Debug\Pages\Search.xbf
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Debug\Pages\Setting.xbf
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Debug\Pages\Stop.xbf
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Debug\BUS.TRACKER.xr.xml
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Debug\BUS.TRACKER.exe
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Debug\BUS.TRACKER.pdb
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Debug\resources.pri
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Debug\AppxManifest.xml
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Debug\BUS.TRACKER.build.appxrecipe
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\App.g.i.cs
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\App.g.cs
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\MainPage.g.i.cs
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\MainPage.g.cs
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Map.g.i.cs
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Map.g.cs
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Link.g.i.cs
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Link.g.cs
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Route.g.i.cs
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Route.g.cs
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Search.g.i.cs
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Search.g.cs
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Setting.g.i.cs
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Setting.g.cs
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Stop.g.i.cs
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Stop.g.cs
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\App.xaml
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\MainPage.xaml
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Map.xaml
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Route.xaml
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Search.xaml
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Setting.xaml
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Stop.xaml
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\App.xbf
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\MainPage.xbf
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Map.xbf
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Route.xbf
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Search.xbf
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Setting.xbf
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Stop.xbf
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\XamlSaveStateFile.xml
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Link.xaml
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\Pages\Link.xbf
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\BUS.TRACKER.exe
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\BUS.TRACKER.pdb
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\BUS.TRACKER.csproj.GenerateResource.Cache
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\priconfig.xml
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\priconfig.xml.intermediate
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\layout.resfiles
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\layout.resfiles.intermediate
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\resources.resfiles
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\resources.resfiles.intermediate
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\pri.resfiles
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\pri.resfiles.intermediate
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\qualifiers.txt
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\qualifiers.txt.intermediate
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Debug\ProjectArchitectures.txt

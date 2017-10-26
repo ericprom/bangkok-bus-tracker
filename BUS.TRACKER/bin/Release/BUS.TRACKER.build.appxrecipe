@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ERICPROM6E29</Machine>
+    <WindowsUser>EricProm</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>16984afb-190d-4109-beb9-7543a9ca416b</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Release\BUS.TRACKER.exe">
+      <PackagePath>BUS.TRACKER.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\arl\blueline.png">
+      <PackagePath>Assets\arl\blueline.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\arl\logo.png">
+      <PackagePath>Assets\arl\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\arl\redline.png">
+      <PackagePath>Assets\arl\redline.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\brt\logo.png">
+      <PackagePath>Assets\brt\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\brt\yellowline.png">
+      <PackagePath>Assets\brt\yellowline.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\bts\logo.png">
+      <PackagePath>Assets\bts\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\bts\silom.png">
+      <PackagePath>Assets\bts\silom.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\bts\sukhumvit.png">
+      <PackagePath>Assets\bts\sukhumvit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\bus\bus.png">
+      <PackagePath>Assets\bus\bus.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\bus\stop.png">
+      <PackagePath>Assets\bus\stop.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\bus\logo.png">
+      <PackagePath>Assets\bus\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\bus\stops.png">
+      <PackagePath>Assets\bus\stops.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\icons\search.png">
+      <PackagePath>Assets\icons\search.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\icons\settings.png">
+      <PackagePath>Assets\icons\settings.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\icons\bus.png">
+      <PackagePath>Assets\icons\bus.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\icons\in.png">
+      <PackagePath>Assets\icons\in.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\icons\wait.png">
+      <PackagePath>Assets\icons\wait.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\mrt\blueline.png">
+      <PackagePath>Assets\mrt\blueline.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\mrt\logo.png">
+      <PackagePath>Assets\mrt\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Release\Pages\Map.xbf">
+      <PackagePath>Pages\Map.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Release\Pages\Link.xbf">
+      <PackagePath>Pages\Link.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Release\Pages\Route.xbf">
+      <PackagePath>Pages\Route.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Release\Pages\Search.xbf">
+      <PackagePath>Pages\Search.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Release\Pages\Setting.xbf">
+      <PackagePath>Pages\Setting.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Release\Pages\Stop.xbf">
+      <PackagePath>Pages\Stop.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Release\BUS.TRACKER.xr.xml">
+      <PackagePath>BUS.TRACKER.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EricProm\Documents\bustracker\BUS.TRACKER\BUS.TRACKER\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
